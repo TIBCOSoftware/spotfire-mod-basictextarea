@@ -1,0 +1,22 @@
+{
+    "apiVersion": "1.2",
+    "version": "1.0",
+    "name": "Basic Text Area",
+    "id":"sfire-mods-basic-textarea",
+    "icon":"icon.svg",
+    "legend": {
+        "defaultVisibility": "hidden"
+    },
+    "properties": [
+        {
+            "name":"text",
+            "type":"string",
+            "defaultValue": ""
+        }
+    ],
+    "files": [
+        "index.html",
+        "main.css",
+        "bundle.js"
+    ]
+}

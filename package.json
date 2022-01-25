@@ -1,0 +1,30 @@
+{
+    "name": "sfire-mods-basic-textarea",
+    "version": "1.0.0",
+    "description": "The basic text area mod allow you to add basic textual descriptions to dashboards and analyses from the Spotfire Web UI.",
+    "main": "index.js",
+    "scripts": {
+        "server": "mods-dev-server dist",
+        "build": "webpack --mode production",
+        "build-watch": "webpack --watch",
+        "start": "npm run build-watch"
+    },
+    "author": "lehtipalo",
+    "license": "ISC",
+    "devDependencies": {
+        "@tibco/spotfire-mods-dev-server": "^1.0.0",
+        "@types/commonmark": "^0.27.5",
+        "@types/dompurify": "^2.3.3",
+        "@types/marked": "^4.0.1",
+        "@types/node": "^17.0.9",
+        "copy-webpack-plugin": "^6.0.3",
+        "ts-loader": "^8.0.11",
+        "typescript": "^4.1.2",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^4.9.1"
+    },
+    "dependencies": {
+        "commonmark": "^0.30.0",
+        "dompurify": "^2.3.4"
+    }
+}
