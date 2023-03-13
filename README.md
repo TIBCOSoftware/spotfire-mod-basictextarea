@@ -1,9 +1,6 @@
 # Basic Text Area Mod for TIBCO Spotfire®
 
-<img src="https://community.tibco.com/servlet/rtaImage?eid=ka64z0000008Rv7&feoid=00N4z000003259u&refid=0EM4z000003V64W" alt="Basic Text Area Mod for TIBCO Spotfire®" width="60%">
-
 Add basic textual descriptions to dashboards and analyses from the Spotfire Web UI.
-
 
 ## Installation & Use
 
