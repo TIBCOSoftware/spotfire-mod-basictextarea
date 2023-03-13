@@ -1,5 +1,7 @@
 # Basic Text Area Mod for TIBCO Spotfire®
 
+<img src="assets/displayvalue.png" width="60%"/>
+
 Add basic textual descriptions to dashboards and analyses from the Spotfire Web UI.
 
 ## Installation & Use
